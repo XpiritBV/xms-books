@@ -6,9 +6,9 @@ repository               : "xpiritbv/xpirit-books"
 comments:
   provider               : "giscus" # false (default), "giscus", "custom"
   giscus:
-    repo_id              : "R_kgDOIk8VGQ"
+    repo_id              : "R_kgDOImipCA"
     category_name        : "Announcements"
-    category_id          : "DIC_kwDOIk8VGc4CS9rY"
+    category_id          : "DIC_kwDOImipCM4CTCI4"
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
     theme                : "preferred_color_scheme" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
