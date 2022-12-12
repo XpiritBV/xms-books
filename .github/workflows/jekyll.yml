@@ -4,7 +4,7 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Deploy Jekyll site to Azure Static App
 
 on:
   # Runs on pushes targeting the default branch
@@ -60,6 +60,8 @@ jobs:
     steps:
       - name: Download a Build Artifact
         uses: actions/download-artifact@v3.0.1
+        with:
+          path: "/_site"
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
