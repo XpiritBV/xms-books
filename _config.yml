@@ -1,7 +1,7 @@
 url                      : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "/" # the subpath of your site, e.g. /blog
-title                    : "The Software Consultant Library" # the name of your site, e.g. ACME Corp.
-repository               : "mivano/software-consultant-books"
+title                    : "The Xpirit Library" # the name of your site, e.g. ACME Corp.
+repository               : "xpiritbv/xpirit-books"
 
 comments:
   provider               : "giscus" # false (default), "giscus", "custom"
