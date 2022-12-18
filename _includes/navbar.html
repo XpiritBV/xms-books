@@ -21,7 +21,7 @@
                     {% assign class = 'active' %}
                 {% endif %}
                     <li class="nav-item {{ class }}">
-                        <a href="{{ site.baseurl }}{{ link.url }}"  class="nav-link">{{ link.title }}</a>
+                        <a href="{{ link.url | relative-url }}"  class="nav-link">{{ link.title }}</a>
                     </li>              
             {% endfor %}
         </ul>
