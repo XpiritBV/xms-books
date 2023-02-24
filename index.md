@@ -85,7 +85,7 @@ title: "Search and Browse"
                             <li></li>
                         </ul>
                         <figcaption>
-                            <h1>{{ item.titleShort || item.title }}</h1>
+                            <h1><a v-bind:href="item.url" class="text-decoration-none text-black">{{ item.titleShort || item.title }}</a></h1>
                             <span>By {{ item.author }}</span>
                             <p>{{ item.excerpt }}</p>
                         </figcaption>
