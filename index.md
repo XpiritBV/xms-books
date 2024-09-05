@@ -2,7 +2,7 @@
 layout: default
 title: "Search and Browse"
 ---
-
+ 
 <div class="container-fluid" style="margin-top: 50px;" id="el">
 {% raw %}
    
