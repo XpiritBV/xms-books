@@ -1,6 +1,6 @@
-# The Xpirit book catalog
+# The XMS Book Library
 
-A useful list of books we, as Xpirit, think are interesting to others. 
+A useful list of books we, as Xebia Microsoft Services, think are interesting to others. 
 
 ## Customize
 
