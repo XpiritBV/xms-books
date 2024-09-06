@@ -8,7 +8,7 @@ tags:
 audiences: 
   - Developers
 pillars:
-  - "Technical Hygiene"
+  - "State of the art software"
 topics:
   - Engineering Practices
 ---
