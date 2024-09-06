@@ -27,3 +27,8 @@ This engaging, easy-to-read parable shows you that every business, sports team, 
 * Ensure your culture reflects core values and aligns with your organization’s mission and vision
 * Transform your culture into the "immune system" for your team or business
 * Learn about the "3 Cornerstones of Culture" and eliminate the "5 Culture Killers"
+
+# Why is this interesting for XMS
+
+*By Rene van Osnabrugge:*
+This is the follow up book of Coach to Coach. Again it is a nice story about a coach that needs to ramp up a football team and struggles a lot with the players. It is a nice book because it drwas the connection to the business life and culture. There are some good takeaways how to build a stronger team and some simple rituals you can create to achieve this. 
