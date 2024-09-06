@@ -120,7 +120,7 @@ createApp({
                 query: this.query,
                 filters: this.filters,
                 page: this.page,
-                per_page: 12,
+                per_page: 50,
                 sort: this.sort
               })
         
