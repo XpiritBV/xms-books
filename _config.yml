@@ -1,6 +1,6 @@
 url                      : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "/" # the subpath of your site, e.g. /blog
-title                    : "The Xpirit Library" # the name of your site, e.g. ACME Corp.
+title                    : "The XMS Book Library" # the name of your site, e.g. ACME Corp.
 repository               : "xpiritbv/xpirit-books"
 
 comments:

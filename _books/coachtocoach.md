@@ -23,7 +23,7 @@ Think about the coaches you've had throughout your life. Most likely, some were 
 * Turn your natural skills and talents into your own unique coaching style 
 * Use proven, time-tested coaching strategies to get results 
 
-# Why is this interesting for Xpirit
+# Why is this interesting for XMS
 
 *By Rene van Osnabrugge:*
-Being a consultant at Xpirit means that you are usually one the people that leads the team. That also means other people are led. And by that, you automatically become a coach. I think that by being a coach to receptive people you can enlarge your footprint. Show them what is possible, give them trust, show them good habits. And all of a sudden there are ambassodors in the team that say the same things as yourself. This book is very straightforward. Everything works right away, but the novel style and story is very nice. There are some very good inisghts in here that can really help you become a better coach to people in your team or organization
+Being a consultant at XMS means that you are usually one the people that leads the team. That also means other people are led. And by that, you automatically become a coach. I think that by being a coach to receptive people you can enlarge your footprint. Show them what is possible, give them trust, show them good habits. And all of a sudden there are ambassodors in the team that say the same things as yourself. This book is very straightforward. Everything works right away, but the novel style and story is very nice. There are some very good inisghts in here that can really help you become a better coach to people in your team or organization
