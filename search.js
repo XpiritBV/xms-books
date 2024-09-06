@@ -71,7 +71,7 @@ createApp({
 
         // adding pagination variables
         var page = this.page || 1;
-        var per_page = this.per_page || 12;
+        var per_page = this.per_page || 50;
 
         return {
             query: '',
