@@ -1,7 +1,7 @@
 ---
 title: "The Culture Map: Breaking Through the Invisible Boundaries of Global Business"
 titleShort: "The Culture Map"
-author: "Eren Meyer"
+author: "Erin Meyer"
 imageUrl: /assets/covers/theculturemap.png
 tags:
   - teams
